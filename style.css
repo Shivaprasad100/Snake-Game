@@ -1,0 +1,22 @@
+.gameContainer{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace, cursive;
+}
+.gameBoard{
+    border: 1px solid;
+    background-color: lightgray;
+}
+.scoreText{
+    font-size: 50px;
+    margin: 0px;
+}
+.resetBtn{
+    font-family:'Courier New', Courier, monospace, cursive;
+    font-weight: bold;
+    padding:6px 12px
+}
+
+.gameName{
+    padding: 0px;
+    margin: 0px;
+}
